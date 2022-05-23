@@ -1,2 +1,2 @@
-# Data is Yours
-### Here will be stored filles, from DIY which is additional course for people who want to devolp your skills orginised by our Scientific Circle
+# Data Analysis
+### In this folder are stored several solutions to tasks which revolves around Data Analysis topic. To deal with them I am use the technologies such as Pandas, PostgreSQL, PySpark, Python and more. 
